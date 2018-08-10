@@ -42,7 +42,9 @@ l2.next = ListNode(6)
 l2.next.next = ListNode(4)
 s = Solution()
 result = s.addTwoNumbers(l1, l2)
+result_list = []
 curr = result
 while curr is not None:
-    print(curr.val)
+    result_list.append(curr.val)
     curr = curr.next
+print(result_list)
