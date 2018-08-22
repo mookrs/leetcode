@@ -1,4 +1,4 @@
-# leet-code
+# leetcode
 
 My Python solutions for LeetCode. 
 
