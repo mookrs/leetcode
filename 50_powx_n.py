@@ -9,7 +9,7 @@ class Solution:
             if n == 0:
                 return 1
             v = self.myPow(x, n // 2)
-            if n % 2 == 0:
+            if n & 1 == 0:
                 return v * v
             else:
                 return v * v * x
