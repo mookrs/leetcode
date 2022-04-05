@@ -1,5 +1,3 @@
 # leetcode
 
-My Python solutions for LeetCode. 
-
-Copy&Paste-Oriented Programming™ 🎉
+My solutions for LeetCode.
